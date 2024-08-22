@@ -1,0 +1,3 @@
+﻿  BoxFinderApp.cpp
+Z:\Visual Studio Solutions\BoxFinderApp\BoxFinderApp\BoxFinderApp.cpp(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  BoxFinderApp.vcxproj -> Z:\Visual Studio Solutions\BoxFinderApp\x64\Debug\BoxFinderApp.exe
